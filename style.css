@@ -34,15 +34,15 @@ body {
 }
 
 .container .card:nth-child(1) .icon {
-  background: #e07768;
+  background: #2dafff;
 }
 
 .container .card:nth-child(2) .icon {
-  background: #6eadd4;
+background: #f00;
 }
 
 .container .card:nth-child(3) .icon {
-  background: #4aada9;
+  background: #000000;
 }
 
 .container .card .icon .fa {
